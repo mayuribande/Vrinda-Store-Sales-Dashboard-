@@ -44,3 +44,9 @@ Channels Order – Order share across Amazon, Flipkart, Myntra, Meesho, Ajio, Ny
 Month — Jan to Dec
 Channel — Ajio, Amazon, Flipkart, Meesho, Myntra, etc.
 Category — Blouse, Bottom, Ethnic, Kurta, Saree, Set, etc.
+
+🚀 How to Use
+Download Vrinda_Store_Dashboard.xlsx
+Open in Microsoft Excel (Slicers require Excel 2010+)
+Use the slicers on the left panel to filter by Month, Channel, or Category
+All charts update dynamically based on your selection
