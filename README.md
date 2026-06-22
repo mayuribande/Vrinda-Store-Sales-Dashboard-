@@ -1,7 +1,7 @@
 # Vrinda-Store-Sales-Dashboard
  An interactive Excel dashboard built to analyze sales, orders, and customer trends for Vrinda Store. The dashboard uses PivotTables, PivotCharts, and Slicers to make the data fully interactive — filter by Month, Channel, or Category and watch every chart update instantly.
 
-[Dashboard Preview](Vrinda Store.png)
+![Dashboard Preview](images/vrinda-store.png)
 
 🔍 Overview
 
